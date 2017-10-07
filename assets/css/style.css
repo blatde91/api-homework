@@ -1,0 +1,22 @@
+body {
+	background-image: url(pinkdust.png);
+	color: white;
+}
+
+#buttonBar {
+	margin-top: 10px;
+}
+
+.buttons {
+	margin-right: 5px;
+	margin-top: 5px;
+}
+
+.gifDiv {
+	display: inline-block;
+	margin-right: 5px;
+}
+
+.container {
+	margin-top: 10px;
+}
