@@ -33,7 +33,7 @@ $(document).on("click", ".buttons" , function (event) {
 
 	function ajaxCall(passThis) {
 		
-		var queryURL = "http://api.giphy.com/v1/gifs/search?q=" 
+		var queryURL = "https://api.giphy.com/v1/gifs/search?q=" 
 			+ passThis + "&api_key=koJ99V4FAcMqlEMPI88DQg8tXHRCrr8A&limit=10&rating=PG";
 
 		$.ajax({
